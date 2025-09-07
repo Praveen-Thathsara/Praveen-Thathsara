@@ -14,7 +14,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveen-thathsara-994389316/" target="_blank">
+  <a href="https://www.linkedin.com/in/praveen-thathsara-rathnayake-994389316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/praveen.__r?igsh=MTdyczl2YXJ6cXppcg==" target="_blank">
