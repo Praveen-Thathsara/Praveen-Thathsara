@@ -11,7 +11,6 @@ I am a passionate computer science student with a strong interest in programming
 - Currently learning Programming & Computer Science
 - Open to collaborate on any projects where I can contribute meaningfully
 - Constantly exploring new technologies and best practices
-- Based in Colombo, Western Province, Sri Lanka
 
 ---
 
@@ -69,30 +68,8 @@ I am a passionate computer science student with a strong interest in programming
   <img src="https://github-profile-trophy.vercel.app/?username=Praveen-Thathsara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-
----
-
-## Current Focus
-
-- Expanding knowledge in full-stack web development
-- Learning advanced algorithms and data structures
-- Contributing to open-source projects
-- Building practical applications to solve real-world problems
-
----
-
-## Let's Collaborate
-
-I am always interested in collaborating on innovative projects and learning from the developer community. Feel free to reach out if you have an interesting project or idea.
-
-**Contact:** Connect with me through any of the platforms listed above.
-
 ---
 
 <p align="center">
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
-</p>
-
-<p align="center">
-  <sub>This README was crafted with dedication and attention to detail.</sub>
 </p>
