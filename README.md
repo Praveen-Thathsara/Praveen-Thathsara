@@ -1,16 +1,98 @@
-Praveen Thathsara
-Computer Science Enthusiast | Programmer | Software Developer
+# Praveen Thathsara Rathnayake
 
-About Me
-Currently studying Programming & Computer Science
+**Computer Science Enthusiast | Programmer | Tech Explorer**
 
-Open to collaboration on software development projects
+---
 
-Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/praveen-thathsara-rathnayake-994389316/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/praveen.__r?igsh=MTdyczl2YXJ6cXppcg==" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.facebook.com/profile.php?id=100026335351551&mibextid=ZbWKwL" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://youtube.com/@pravlogz?si=jg5vy6Y2QR0eYoYp" target="_blank"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://github.com/Praveen-Thathsara" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+## About Me
 
-Pronouns
-he / him
+I am a passionate computer science student with a strong interest in programming and technology. Currently expanding my knowledge in various areas of software development and always eager to learn new technologies and frameworks.
 
-GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Thathsara&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Thathsara&theme=tokyonight" alt="GitHub streak" width="49%"/> </p>
+- Currently learning Programming & Computer Science
+- Open to collaborate on any projects where I can contribute meaningfully
+- Constantly exploring new technologies and best practices
+- Based in Colombo, Western Province, Sri Lanka
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-thathsara-rathnayake-994389316/" target="_blank" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/praveen.__r?igsh=MTdyczl2YXJ6cXppcg==" target="_blank" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100026335351551&mibextid=ZbWKwL" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@pravlogz?si=jg5vy6Y2QR0eYoYp" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Praveen-Thathsara" target="_blank" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css" alt="Programming Languages" /><img src="https://skillicons.dev/icons?i=react,nodejs,git,vscode,mysql,mongodb" alt="Frameworks and Tools" /><img src="https://skillicons.dev/icons?i=docker,linux,bash,npm,webpack,tailwind" alt="Additional Technologies" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Thathsara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Thathsara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Thathsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-Thathsara&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveen-Thathsara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+
+---
+
+## Current Focus
+
+- Expanding knowledge in full-stack web development
+- Learning advanced algorithms and data structures
+- Contributing to open-source projects
+- Building practical applications to solve real-world problems
+
+---
+
+## Let's Collaborate
+
+I am always interested in collaborating on innovative projects and learning from the developer community. Feel free to reach out if you have an interesting project or idea.
+
+**Contact:** Connect with me through any of the platforms listed above.
+
+---
+
+<p align="center">
+  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+</p>
+
+<p align="center">
+  <sub>This README was crafted with dedication and attention to detail.</sub>
+</p>
